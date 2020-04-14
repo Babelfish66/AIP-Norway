@@ -1,5 +1,5 @@
 # AIP-Norway
-json file for eBag X-plane plugin
+json file for eBag X-plane plugin, with 11 Airport as we speak, I will add more over time.
 
 1. Open your folder: <Dir:\your install folder\X-Plane 11\Resources\plugins\eBag\weblib> (without the bracket)
 2. Create a file named: AIP Norway.json in your favourite text editor
