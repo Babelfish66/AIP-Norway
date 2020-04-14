@@ -1,0 +1,1095 @@
+{
+  "eBagLib": {
+
+	  "ENRS - ROEST": {
+      "TEXT": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENRS/EN_AD_2_ENRS_en.pdf",
+        "filename": "EN_AD_2_ENRS_en.pdf"
+      },
+      "AD CHART": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENRS/EN_AD_2_ENRS_2-1_en.pdf",
+        "filename": "EN_AD_2_ENRS_2-1_en.pdf"
+      }, 
+  		"AOC ICAO TYPE A RWY 02": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENRS/EN_AD_2_ENRS_3-1_en.pdf",
+        "filename": "EN_AD_2_ENRS_3-1_en.pdf"
+      }, 
+  		"AOC ICAO TYPE A RWY 20": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENRS/EN_AD_2_ENRS_3-3_en.pdf",
+        "filename": "EN_AD_2_ENRS_3-3_en.pdf"
+      }, 		  
+      "IAC GLS RWY 02": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENRS/EN_AD_2_ENRS_5-1_en.pdf",
+        "filename": "EN_AD_2_ENRS_5-1_en.pdf"
+      },
+      "IAC RNAV(GNSS) RWY 02": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENRS/EN_AD_2_ENRS_5-3_en.pdf",
+        "filename": "EN_AD_2_ENRS_5-3_en.pdf"
+      },	
+      "IAC GLS RWY 20": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENRS/EN_AD_2_ENRS_5-5_en.pdf",
+        "filename": "EN_AD_2_ENRS_5-5_en.pdf"
+      },
+      "IAC RNAV(GNSS) W RWY 20": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENRS/EN_AD_2_ENRS_5-7_en.pdf",
+        "filename": "EN_AD_2_ENRS_5-7_en.pdf"
+      },
+      "IAC NDB RWY 20": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENRS/EN_AD_2_ENRS_5-9_en.pdf",
+        "filename": "EN_AD_2_ENRS_5-9_en.pdf"
+      },
+       "IAC NDB-A": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENRS/EN_AD_2_ENRS_5-10_en.pdf",
+        "filename": "EN_AD_2_ENRS_5-10_en.pdf"
+	  },	  
+       "VAC ICAO ": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENRS/EN_AD_2_ENRS_6-1_en.pdf",
+        "filename": "EN_AD_2_ENRS_6-1_en.pdf"
+      }
+	  },  
+	  "ENVA - VAERNES": {
+      "TEXT": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENVA/EN_AD_2_ENVA_en.pdf",
+        "filename": "EN_AD_2_ENVA_en.pdf"
+      },
+      "AD CHART": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENVA/EN_AD_2_ENVA_2-1_en.pdf",
+        "filename": "EN_AD_2_ENVA_2-1_en.pdf"
+      },
+      "AD PARKING/DOCKING CHART": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENVA/EN_AD_2_ENVA_2-3_en.pdf",
+        "filename": "EN_AD_2_ENVA_2-3_en.pdf"
+      },	  	  
+      "AREA CHART": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENVA/EN_AD_2_ENVA_7-1_en.pdf",
+        "filename": "EN_AD_2_ENVA_7-1_en.pdf"
+      },	  
+  		"AOC ICAO TYPE A RWY 09": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENVA/EN_AD_2_ENVA_3-1_en.pdf",
+        "filename": "EN_AD_2_ENVA_3-1_en.pdf"
+      }, 
+  		"AOC ICAO TYPE A RWY 27": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENVA/EN_AD_2_ENVA_3-3_en.pdf",
+        "filename": "EN_AD_2_ENVA_3-3_en.pdf"
+      }, 	  
+  		"OMNI-DIR.DEPARTURES RWY 09": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENVA/EN_AD_2_ENVA_4-7_en.pdf",
+        "filename": "EN_AD_2_ENVA_4-7_en.pdf"
+      },	
+  		"OMNI-DIR.DEPARTURES RWY 27": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENVA/EN_AD_2_ENVA_4-13_en.pdf",
+        "filename": "EN_AD_2_ENVA_4-13_en.pdf"
+      },
+      "SID RWY 09": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENVA/EN_AD_2_ENVA_4-3_en.pdf",
+        "filename": "EN_AD_2_ENVA_4-3_en.pdf"
+      },
+      "SID RWY 27": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENVA/EN_AD_2_ENVA_4-9_en.pdf",
+        "filename": "EN_AD_2_ENVA_4-9_en.pdf"
+      },
+       "STAR RWY 09": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENVA/EN_AD_2_ENVA_4-15_en.pdf",
+        "filename": "EN_AD_2_ENVA_4-15_en.pdf"
+      },
+      "STAR RWY 27": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENVA/EN_AD_2_ENVA_4-19_en.pdf",
+        "filename": "EN_AD_2_ENVA_4-19_en.pdf"
+      },
+       "IAC ILS or LOC RWY 09": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENVA/EN_AD_2_ENVA_5-1_en.pdf",
+        "filename": "EN_AD_2_ENVA_5-1_en.pdf"
+      },
+      "IAC RNAV(GNSS) N RWY 09": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENVA/EN_AD_2_ENVA_5-3_en.pdf",
+        "filename": "EN_AD_2_ENVA_5-3_en.pdf"
+      },
+      "IAC RNAV(GNSS) E RWY 09": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENVA/EN_AD_2_ENVA_5-5_en.pdf",
+        "filename": "EN_AD_2_ENVA_5-5_en.pdf"
+      },	
+      "IAC RNAV(GNSS) S RWY 09": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENVA/EN_AD_2_ENVA_5-7_en.pdf",
+        "filename": "EN_AD_2_ENVA_5-7_en.pdf"
+      },
+      "IAC RNAV(GNSS) W RWY 09": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENVA/EN_AD_2_ENVA_5-9_en.pdf",
+        "filename": "EN_AD_2_ENVA_5-9_en.pdf"
+      },
+      "IAC RNAV(GNSS) Z RWY 09": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENVA/EN_AD_2_ENVA_5-11_en.pdf",
+        "filename": "EN_AD_2_ENVA_5-11_en.pdf"
+      },
+       "IAC ILS or LOC RWY 27": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENVA/EN_AD_2_ENVA_5-13_en.pdf",
+        "filename": "EN_AD_2_ENVA_5-13_en.pdf"
+      },
+      "IAC RNAV(GNSS) N RWY 27": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENVA/EN_AD_2_ENVA_5-15_en.pdf",
+        "filename": "EN_AD_2_ENVA_5-15_en.pdf"
+      },
+      "IAC RNAV(GNSS) E RWY 27": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENVA/EN_AD_2_ENVA_5-17_en.pdf",
+        "filename": "EN_AD_2_ENVA_5-17_en.pdf"
+      },	
+      "IAC RNAV(GNSS) S RWY 27": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENVA/EN_AD_2_ENVA_5-19_en.pdf",
+        "filename": "EN_AD_2_ENVA_5-19_en.pdf"
+      },
+      "IAC RNAV(GNSS) W RWY 27": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENVA/EN_AD_2_ENVA_5-21_en.pdf",
+        "filename": "EN_AD_2_ENVA_5-21_en.pdf"
+      },
+      "IAC RNAV(GNSS) Z RWY 27": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENVA/EN_AD_2_ENVA_5-23_en.pdf",
+        "filename": "EN_AD_2_ENVA_5-23_en.pdf"
+      },	  
+      "VAC ICAO ": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENVA/EN_AD_2_ENVA_6-1_en.pdf",
+        "filename": "EN_AD_2_ENVA_6-1_en.pdf"
+	  },
+      "VFR ROUTES CAT. H AND LAC ": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENVA/EN_AD_2_ENVA_6-3_en.pdf",
+        "filename": "EN_AD_2_ENVA_6-3_en.pdf"
+	  },	  
+      "FRA CONNECTING ROUTES CHART ENVA ": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/EN_ENR_6_3-7_en.pdf",
+        "filename": "EN_ENR_6_3-7_en.pdf"
+      }
+	  },  
+	  "ENAL - VIGRA": {
+      "TEXT": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENAL/EN_AD_2_ENAL_en.pdf",
+        "filename": "EN_AD_2_ENAL_en.pdf"
+      },
+      "AD CHART": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENAL/EN_AD_2_ENAL_2-1_en.pdf",
+        "filename": "EN_AD_2_ENAL_2-1_en.pdf"
+      },
+      "AREA CHART": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENAL/EN_AD_2_ENAL_7-1_en.pdf",
+        "filename": "EN_AD_2_ENAL_7-1_en.pdf"
+      },	  
+  		"AOC ICAO TYPE A RWY 06": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENAL/EN_AD_2_ENAL_3-1_en.pdf",
+        "filename": "EN_AD_2_ENAL_3-1_en.pdf"
+      }, 
+  		"AOC ICAO TYPE A RWY 24": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENAL/EN_AD_2_ENAL_3-3_en.pdf",
+        "filename": "EN_AD_2_ENAL_3-3_en.pdf"
+      }, 	  
+  		"OMNI-DIR.DEPARTURES RWY 06": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENAL/EN_AD_2_ENAL_4-3_en.pdf",
+        "filename": "EN_AD_2_ENAL_4-3_en.pdf"
+      },	
+  		"OMNI-DIR.DEPARTURES RWY 24": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENAL/EN_AD_2_ENAL_4-7_en.pdf",
+        "filename": "EN_AD_2_ENAL_4-7_en.pdf"
+      },
+      "SID RWY 06": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENAL/EN_AD_2_ENAL_4-1_en.pdf",
+        "filename": "EN_AD_2_ENAL_4-1_en.pdf"
+      },
+      "SID RWY 24": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENAL/EN_AD_2_ENAL_4-5_en.pdf",
+        "filename": "EN_AD_2_ENAL_4-5_en.pdf"
+      },
+       "STAR RWY 06": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENAL/EN_AD_2_ENAL_4-9_en.pdf",
+        "filename": "EN_AD_2_ENAL_4-9_en.pdf"
+      },
+      "STAR RWY 24": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENAL/EN_AD_2_ENAL_4-11_en.pdf",
+        "filename": "EN_AD_2_ENAL_4-11_en.pdf"
+      },
+       "IAC ILS or LOC RWY 24": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENAL/EN_AD_2_ENAL_5-6_en.pdf",
+        "filename": "EN_AD_2_ENAL_5-6_en.pdf"
+      },
+      "IAC RNAV(GNSS) Z RWY 06": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENAL/EN_AD_2_ENAL_5-1_en.pdf",
+        "filename": "EN_AD_2_ENAL_5-1_en.pdf"
+      },
+      "IAC RNAV(GNSS) Y RWY 06": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENAL/EN_AD_2_ENAL_5-3_en.pdf",
+        "filename": "EN_AD_2_ENAL_5-3_en.pdf"
+      },	  
+      "IAC VOR RWY 06": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENAL/EN_AD_2_ENAL_5-5_en.pdf",
+        "filename": "EN_AD_2_ENAL_5-5_en.pdf"
+      },	  
+      "IAC RNAV(GNSS) Z RWY 24": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENAL/EN_AD_2_ENAL_5-7_en.pdf",
+        "filename": "EN_AD_2_ENAL_5-7_en.pdf"
+      },
+      "IAC RNAV(GNSS) Y RWY 24": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENAL/EN_AD_2_ENAL_5-9_en.pdf",
+        "filename": "EN_AD_2_ENAL_5-9_en.pdf"
+      },	
+      "VAC ICAO ": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENAL/EN_AD_2_ENAL_6-1_en.pdf",
+        "filename": "EN_AD_2_ENAL_6-1_en.pdf"
+      }
+	  },
+	  "ENZV - SOLA": {
+      "TEXT": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENZV/EN_AD_2_ENZV_en.pdf",
+        "filename": "EN_AD_2_ENZV_en.pdf"
+      },
+      "AD CHART": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENZV/EN_AD_2_ENZV_2-1_en.pdf",
+        "filename": "EN_AD_2_ENZV_2-1_en.pdf"
+      },
+      "ADC LIGHTNING AND MARKING AIDS": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENZV/EN_AD_2_ENZV_2-2_en.pdf",
+        "filename": "EN_AD_2_ENZV_2-2_en.pdf"
+      },		  
+      "ADC AC DOCKING AND PARKING CHART": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENZV/EN_AD_2_ENZV_2-3_en.pdf",
+        "filename": "EN_AD_2_ENZV_2-3_en.pdf"
+      },	
+      "AREA CHART": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENZV/EN_AD_2_ENZV_7-1_en.pdf",
+        "filename": "EN_AD_2_ENZV_7-1_en.pdf"
+      },	  
+  		"AOC ICAO TYPE A RWY 11": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENZV/EN_AD_2_ENZV_3-1_en.pdf",
+        "filename": "EN_AD_2_ENZV_3-1_en.pdf"
+      }, 
+  		"AOC ICAO TYPE A RWY 29": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENZV/EN_AD_2_ENZV_3-3_en.pdf",
+        "filename": "EN_AD_2_ENZV_3-3_en.pdf"
+      }, 	  
+  		"AOC TYPE A RWY 18": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENZV/EN_AD_2_ENZV_3-5_en.pdf",
+        "filename": "EN_AD_2_ENZV_3-5_en.pdf"
+      },
+ 		"AOC TYPE A RWY 36": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENZV/EN_AD_2_ENZV_3-7_en.pdf",
+        "filename": "EN_AD_2_ENZV_3-7_en.pdf"
+      },	
+ 		"PATC RWY 18": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENZV/EN_AD_2_ENZV_3-9_en.pdf",
+        "filename": "EN_AD_2_ENZV_3-9_en.pdf"
+      },	  
+  		"OMNI-DIR.DEPARTURES RWY 18": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENZV/EN_AD_2_ENZV_4-7_en.pdf",
+        "filename": "EN_AD_2_ENZV_4-7_en.pdf"
+      },	
+  		"OMNI-DIR.DEPARTURES RWY 36": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENZV/EN_AD_2_ENZV_4-13_en.pdf",
+        "filename": "EN_AD_2_ENZV_4-13_en.pdf"
+      },
+  		"OMNI-DIR.DEPARTURES RWY 11": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENZV/EN_AD_2_ENZV_4-21_en.pdf",
+        "filename": "EN_AD_2_ENZV_4-21_en.pdf"
+      },
+  		"OMNI-DIR.DEPARTURES RWY 29": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENZV/EN_AD_2_ENZV_4-27_en.pdf",
+        "filename": "EN_AD_2_ENZV_4-27_en.pdf"
+      },	  
+      "SID RWY 18": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENZV/EN_AD_2_ENZV_4-3_en.pdf",
+        "filename": "EN_AD_2_ENZV_4-3_en.pdf"
+      },
+      "SID RWY 36": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENZV/EN_AD_2_ENZV_4-9_en.pdf",
+        "filename": "EN_AD_2_ENZV_4-9_en.pdf"
+      },
+      "SID RWY 11": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENZV/EN_AD_2_ENZV_4-19_en.pdf",
+        "filename": "EN_AD_2_ENZV_4-19_en.pdf"
+      },
+      "SID RWY 29": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENZV/EN_AD_2_ENZV_4-23_en.pdf",
+        "filename": "EN_AD_2_ENZV_4-23_en.pdf"
+      },	  
+      "STAR RWY 18": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENZV/EN_AD_2_ENZV_4-33_en.pdf",
+        "filename": "EN_AD_2_ENZV_4-33_en.pdf"
+      },
+      "STAR RWY 36": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENZV/EN_AD_2_ENZV_4-37_en.pdf",
+        "filename": "EN_AD_2_ENZV_4-37_en.pdf"
+      },
+      "STAR RWY 11": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENZV/EN_AD_2_ENZV_4-45_en.pdf",
+        "filename": "EN_AD_2_ENZV_4-45_en.pdf"
+      },
+      "STAR RWY 29": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENZV/EN_AD_2_ENZV_4-49_en.pdf",
+        "filename": "EN_AD_2_ENZV_4-49_en.pdf"
+      },	  
+      "IAC ILS Z or LOC Z RWY 18 CAT II": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENZV/EN_AD_2_ENZV_5-1_en.pdf",
+        "filename": "EN_AD_2_ENZV_5-1_en.pdf"
+      },
+      "IAC RNAV(GNSS) RWY 18": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENZV/EN_AD_2_ENZV_5-3_en.pdf",
+        "filename": "EN_AD_2_ENZV_5-3_en.pdf"
+      },
+      "IAC VOR RWY 18": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENZV/EN_AD_2_ENZV_5-5_en.pdf",
+        "filename": "EN_AD_2_ENZV_5-5_en.pdf"
+      },	  
+      "IAC ILS Z or LOC Z RWY 36 CAT II": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENZV/EN_AD_2_ENZV_5-7_en.pdf",
+        "filename": "EN_AD_2_ENZV_5-7_en.pdf"
+      },
+      "IAC RNAV(GNSS) RWY 36": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENZV/EN_AD_2_ENZV_5-9_en.pdf",
+        "filename": "EN_AD_2_ENZV_5-9_en.pdf"
+      },
+      "IAC VOR RWY 36": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENZV/EN_AD_2_ENZV_5-11_en.pdf",
+        "filename": "EN_AD_2_ENZV_5-11_en.pdf"
+      },	
+      "IAC ILS Z or LOC Z RWY 11 CAT II": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENZV/EN_AD_2_ENZV_5-13_en.pdf",
+        "filename": "EN_AD_2_ENZV_5-13_en.pdf"
+      },
+      "IAC RNAV(GNSS) RWY 11": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENZV/EN_AD_2_ENZV_5-19_en.pdf",
+        "filename": "EN_AD_2_ENZV_5-19_en.pdf"
+      },
+      "IAC VOR RWY 11": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENZV/EN_AD_2_ENZV_5-21_en.pdf",
+        "filename": "EN_AD_2_ENZV_5-21_en.pdf"
+      },
+      "IAC RNAV(GNSS) RWY 29": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENZV/EN_AD_2_ENZV_5-23_en.pdf",
+        "filename": "EN_AD_2_ENZV_5-23_en.pdf"
+      },
+      "IAC VOR RWY 29": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENZV/EN_AD_2_ENZV_5-25_en.pdf",
+        "filename": "EN_AD_2_ENZV_5-25_en.pdf"
+      },
+  		"OMNI-DIR.DEP.CAT.H RWY 18/36": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENZV/EN_AD_2_ENZV_4-17_en.pdf",
+        "filename": "EN_AD_2_ENZV_4-17_en.pdf"
+      },
+  		"OMNI-DIR.DEP.CAT. H RWY 11/29": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENZV/EN_AD_2_ENZV_4-31_en.pdf",
+        "filename": "EN_AD_2_ENZV_4-31_en.pdf"
+      },	  
+      "SID (Helicopter) RWY 18/36 CAT H": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENZV/EN_AD_2_ENZV_4-15_en.pdf",
+        "filename": "EN_AD_2_ENZV_4-15_en.pdf"
+      },
+      "SID (Helicopter) RWY 11/29 CAT H": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENZV/EN_AD_2_ENZV_4-29_en.pdf",
+        "filename": "EN_AD_2_ENZV_4-29_en.pdf"
+      },	  
+      "STAR (Helicopter) RWY 18 CAT H": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENZV/EN_AD_2_ENZV_4-41_en.pdf",
+        "filename": "EN_AD_2_ENZV_4-41_en.pdf"
+      },
+      "STAR (Helicopter) RWY 36 CAT H": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENZV/EN_AD_2_ENZV_4-43_en.pdf",
+        "filename": "EN_AD_2_ENZV_4-43_en.pdf"
+      },	 
+      "STAR (Helicopter Point Boundary) RWY 11": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENZV/EN_AD_2_ENZV_4-53_en.pdf",
+        "filename": "EN_AD_2_ENZV_4-53_en.pdf"
+      },	
+      "VHD VISUAL HELI. DEP RWY 11/29 (CAT H)": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENZV/EN_AD_2_ENZV_4-32_en.pdf",
+        "filename": "EN_AD_2_ENZV_4-32_en.pdf"
+      },	  
+       "IAC (Helicopter) ILS Y or LOC Y RWY 18": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENZV/EN_AD_2_ENZV_5-2_en.pdf",
+        "filename": "EN_AD_2_ENZV_5-2_en.pdf"
+      },
+      "IAC (Helicopter) ILS Y or LOC Y RWY 36": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENZV/EN_AD_2_ENZV_5-8_en.pdf",
+        "filename": "EN_AD_2_ENZV_5-8_en.pdf"
+      },
+      "IAC (Helicopter) ILS Y or LOC Y RWY 11": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENZV/EN_AD_2_ENZV_5-15_en.pdf",
+        "filename": "EN_AD_2_ENZV_5-15_en.pdf"
+      },
+      "IAC (Helicopter) LOC X RWY 11": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENZV/EN_AD_2_ENZV_5-17_en.pdf",
+        "filename": "EN_AD_2_ENZV_5-17_en.pdf"
+      },  
+      "VAC ICAO ": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENZV/EN_AD_2_ENZV_6-1_en.pdf",
+        "filename": "EN_AD_2_ENZV_6-1_en.pdf"
+      },
+      "RELATED CHARTS-FRA CON. ROUTES ENBR/ENZV": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/EN_ENR_6_3-5_en.pdf",
+        "filename": "EN_ENR_6_3-5_en.pdf"	       	  
+      }
+	  },  
+    "ENKR - HOEYBUKTMOEN": {
+      "TEXT": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENKR/EN_AD_2_ENKR_en.pdf",
+        "filename": "EN_AD_2_ENKR_en.pdf"
+      },
+      "AD CHART": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENKR/EN_AD_2_ENKR_2-1_en.pdf",
+        "filename": "EN_AD_2_ENKR_2-1_en.pdf"
+      },
+      "AREA CHART": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENKR/EN_AD_2_ENKR_2-1_en.pdf",
+        "filename": "EN_AD_2_ENKR_2-1_en.pdf"
+      },	  
+      "AOC ENKR RWY 05": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENKR/EN_AD_2_ENKR_3-1_en.pdf",
+        "filename": "EN_AD_2_ENKR_3-1_en.pdf"
+      },
+  		"AOC ENKR RWY 23": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENKR/EN_AD_2_ENKR_3-3_en.pdf",
+        "filename": "EN_AD_2_ENKR_3-3_en.pdf"
+      },     
+      "SID RWY 05": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENKR/EN_AD_2_ENKR_4-1_en.pdf",
+        "filename": "EN_AD_2_ENKR_4-1_en.pdf"
+      },
+      "SID RWY 23": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENKR/EN_AD_2_ENKR_4-3_en.pdf",
+        "filename": "EN_AD_2_ENKR_4-3_en.pdf"
+      },
+      "STAR RWY 05": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENKR/EN_AD_2_ENKR_4-5_en.pdf",
+        "filename": "EN_AD_2_ENKR_4-5_en.pdf"
+      },
+      "STAR RWY 23": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENKR/EN_AD_2_ENKR_4-7_en.pdf",
+        "filename": "EN_AD_2_ENKR_4-7_en.pdf"
+      },
+      "IAC RNAV(GNSS) RWY 05": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENKR/EN_AD_2_ENKR_5-1_en.pdf",
+        "filename": "EN_AD_2_ENKR_5-1_en.pdf"
+      },
+      "IAC VOR RWY 05": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENKR/EN_AD_2_ENKR_5-3_en.pdf",
+        "filename": "EN_AD_2_ENKR_5-3_en.pdf"
+      },
+      "IAC ILS or LOC RWY 23": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENKR/EN_AD_2_ENKR_5-4_en.pdf",
+        "filename": "EN_AD_2_ENKR_5-4_en.pdf"
+      },
+      "IAC RNAV(GNSS) RWY 23": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENKR/EN_AD_2_ENKR_5-5_en.pdf",
+        "filename": "EN_AD_2_ENKR_5-5_en.pdf"
+      },
+      "IAC VOR-A": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENKR/EN_AD_2_ENKR_5-7_en.pdf",
+        "filename": "EN_AD_2_ENKR_5-7_en.pdf"
+      },	  
+      "VAC ICAO": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENKR/EN_AD_2_ENKR_6-1_en.pdf",
+        "filename": "EN_AD_2_ENKR_6-1_en.pdf"
+      }
+	  },
+    "ENVD - VADSOE": {
+      "TEXT": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENVD/EN_AD_2_ENVD_en.pdf",
+        "filename": "EN_AD_2_ENVD_en.pdf"
+      },
+      "AD CHART": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENVD/EN_AD_2_ENVD_2-1_en.pdf",
+        "filename": "EN_AD_2_ENVD_2-1_en.pdf"
+      },
+      "AOC ENVD RWY 07": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENVD/EN_AD_2_ENVD_3-1_en.pdf",
+        "filename": "EN_AD_2_ENVD_3-1_en.pdf"
+      },
+  		"AOC ENVD RWY 25": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENVD/EN_AD_2_ENVD_3-3_en.pdf",
+        "filename": "EN_AD_2_ENVD_3-3_en.pdf"
+      },     
+       "IAC GLS RWY 07": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENVD/EN_AD_2_ENVD_5-1_en.pdf",
+        "filename": "EN_AD_2_ENVD_5-1_en.pdf"
+      },
+      "IAC RNAV(GNSS) RWY 07": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENVD/EN_AD_2_ENVD_5-3_en.pdf",
+        "filename": "EN_AD_2_ENVD_5-3_en.pdf"
+      },
+      "IAC LOC RWY 07": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENVD/EN_AD_2_ENVD_5-5_en.pdf",
+        "filename": "EN_AD_2_ENVD_5-5_en.pdf"
+      },
+      "IAC RNAV(GNSS) RWY 25": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENVD/EN_AD_2_ENVD_5-3_en.pdf",
+        "filename": "EN_AD_2_ENVD_5-3_en.pdf"
+      },
+      "IAC NDB RWY 25": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENVD/EN_AD_2_ENVD_5-11_en.pdf",
+        "filename": "EN_AD_2_ENVD_5-11_en.pdf"
+      },
+      "IAC RNAV(GNSS)-A": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENVD/EN_AD_2_ENVD_5-13_en.pdf",
+        "filename": "EN_AD_2_ENVD_5-13_en.pdf"
+      },		  
+      "VAC ICAO": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENVD/EN_AD_2_ENVD_6-1_en.pdf",
+        "filename": "EN_AD_2_ENVD_6-1_en.pdf"
+      }
+	  },
+	  "ENSS - SVARTNES": {
+      "TEXT": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENSS/EN_AD_2_ENSS_en.pdf",
+        "filename": "EN_AD_2_ENSS_en.pdf"
+      },
+      "AD CHART": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENSS/EN_AD_2_ENSS_2-1_en.pdf",
+        "filename": "EN_AD_2_ENSS_2-1_en.pdf"
+      },
+      "AOC ENSS RWY 15": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENSS/EN_AD_2_ENSS_3-1_en.pdf",
+        "filename": "EN_AD_2_ENSS_3-1_en.pdf"
+      },
+  		"AOC ENSS RWY 33": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENSS/EN_AD_2_ENSS_3-3_en.pdf",
+        "filename": "EN_AD_2_ENSS_3-3_en.pdf"
+      },     
+       "IAC GLS RWY 15": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENSS/EN_AD_2_ENSS_5-1_en.pdf",
+        "filename": "EN_AD_2_ENSS_5-1_en.pdf"
+      },
+      "IAC RNAV(GNSS) RWY 15": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENSS/EN_AD_2_ENSS_5-3_en.pdf",
+        "filename": "EN_AD_2_ENSS_5-3_en.pdf"
+      },
+      "IAC VOR RWY 15": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENSS/EN_AD_2_ENSS_5-5_en.pdf",
+        "filename": "EN_AD_2_ENSS_5-5_en.pdf"
+      },
+      "IAC GLS RWY 33": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENSS/EN_AD_2_ENSS_5-7_en.pdf",
+        "filename": "EN_AD_2_ENSS_5-7_en.pdf"
+      },
+      "IAC RNAV(GNSS) Z RWY 33": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENSS/EN_AD_2_ENSS_5-9_en.pdf",
+        "filename": "EN_AD_2_ENSS_5-9_en.pdf"
+      },
+      "IAC RNAV(GNSS) Y RWY 33": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENSS/EN_AD_2_ENSS_5-11_en.pdf",
+        "filename": "EN_AD_2_ENSS_5-11_en.pdf"
+      },	  
+      "IAC VOR RWY 33": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENSS/EN_AD_2_ENSS_5-13_en.pdf",
+        "filename": "EN_AD_2_ENSS_5-13_en.pdf"
+      },		  
+      "VAC ICAO": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENSS/EN_AD_2_ENSS_6-1_en.pdf",
+        "filename": "EN_AD_2_ENSS_6-1_en.pdf"
+      }
+	  },	
+	  "ENBS - BAATSFJORD": {
+      "TEXT": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBS/EN_AD_2_ENBS_en.pdf",
+        "filename": "EN_AD_2_ENBS_en.pdf"
+      },
+      "AD CHART": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBS/EN_AD_2_ENBS_2-1_en.pdf",
+        "filename": "EN_AD_2_ENBS_2-1_en.pdf"
+      },
+      "AOC ENBS RWY 03": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBS/EN_AD_2_ENBS_3-1_en.pdf",
+        "filename": "EN_AD_2_ENBS_3-1_en.pdf"
+      },
+  		"AOC ENBS RWY 21": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBS/EN_AD_2_ENBS_3-3_en.pdf",
+        "filename": "EN_AD_2_ENBS_3-3_en.pdf"
+      },     
+       "IAC GLS RWY 03": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBS/EN_AD_2_ENBS_5-1_en.pdf",
+        "filename": "EN_AD_2_ENBS_5-1_en.pdf"
+      },
+      "IAC RNAV(GNSS) RWY 03": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBS/EN_AD_2_ENBS_5-3_en.pdf",
+        "filename": "EN_AD_2_ENBS_5-3_en.pdf"
+      },
+      "IAC NDB RWY 03": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBS/EN_AD_2_ENBS_5-5_en.pdf",
+        "filename": "EN_AD_2_ENBS_5-5_en.pdf"
+      },
+      "IAC GLS RWY 21": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBS/EN_AD_2_ENBS_5-7_en.pdf",
+        "filename": "EN_AD_2_ENBS_5-7_en.pdf"
+      },
+      "IAC RNAV(GNSS) RWY 21": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBS/EN_AD_2_ENBS_5-9_en.pdf",
+        "filename": "EN_AD_2_ENBS_5-9_en.pdf"
+      },
+      "IAC LOC RWY 21": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBS/EN_AD_2_ENBS_5-11_en.pdf",
+        "filename": "EN_AD_2_ENBS_5-11_en.pdf"
+      },	  
+      "IAC NDB RWY 21": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBS/EN_AD_2_ENBS_5-12_en.pdf",
+        "filename": "EN_AD_2_ENBS_5-12_en.pdf"
+      },		  
+      "VAC ICAO": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBS/EN_AD_2_ENBS_6-1_en.pdf",
+        "filename": "EN_AD_2_ENBS_6-1_en.pdf"
+      }
+	  },	  
+	  "ENTC - LANGNES": {
+      "TEXT": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENTC/EN_AD_2_ENTC_en.pdf",
+        "filename": "EN_AD_2_ENTC_en.pdf"
+      },
+      "AD CHART": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENTC/EN_AD_2_ENTC_2-1_en.pdf",
+        "filename": "EN_AD_2_ENTC_2-1_en.pdf"
+      },
+      "AD PARKING/DOCKING CHART": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENTC/EN_AD_2_ENTC_2-3_en.pdf",
+        "filename": "EN_AD_2_ENTC_2-3_en.pdf"
+      },	  
+      "AREA CHART": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENTC/EN_AD_2_ENTC_7-1_en.pdf",
+        "filename": "EN_AD_2_ENTC_7-1_en.pdf"
+      },	  
+      "AOC ENTC RWY 18": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENTC/EN_AD_2_ENTC_3-1_en.pdf",
+        "filename": "EN_AD_2_ENTC_3-1_en.pdf"
+      },
+  		"AOC ENTC RWY 36": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENTC/EN_AD_2_ENTC_3-3_en.pdf",
+        "filename": "EN_AD_2_ENTC_3-3_en.pdf"
+      }, 
+  		"AOC ENTC RWY 18/36": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENTC/EN_AD_2_ENTC_3-5_en.pdf",
+        "filename": "EN_AD_2_ENTC_3-5_en.pdf"
+      },
+  		"OMNI ENTC RWY 18": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENTC/EN_AD_2_ENTC_4-4_en.pdf",
+        "filename": "EN_AD_2_ENTC_4-4_en.pdf"
+      },	
+  		"OMNI ENTC RWY 36": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENTC/EN_AD_2_ENTC_4-7_en.pdf",
+        "filename": "EN_AD_2_ENTC_4-7_en.pdf"
+      },		  
+      "SID RWY 18": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENTC/EN_AD_2_ENTC_4-1_en.pdf",
+        "filename": "EN_AD_2_ENTC_4-1_en.pdf"
+      },
+      "SID RWY 36": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENTC/EN_AD_2_ENTC_4-5_en.pdf",
+        "filename": "EN_AD_2_ENTC_4-5_en.pdf"
+      },
+      "SID RWY 18/36": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENTC/EN_AD_2_ENTC_4-9_en.pdf",
+        "filename": "EN_AD_2_ENTC_4-9_en.pdf"
+      },	  
+      "STAR RWY 18": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENTC/EN_AD_2_ENTC_4-11_en.pdf",
+        "filename": "EN_AD_2_ENTC_4-11_en.pdf"
+      },
+      "STAR RWY 36": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENTC/EN_AD_2_ENTC_4-13_en.pdf",
+        "filename": "EN_AD_2_ENTC_4-13_en.pdf"
+      },
+      "STAR RWY 18/36": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENTC/EN_AD_2_ENTC_4-15_en.pdf",
+        "filename": "EN_AD_2_ENTC_4-15_en.pdf"
+      },	  
+      "IAC or LOC RWY 18": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENTC/EN_AD_2_ENTC_5-1_en.pdf",
+        "filename": "EN_AD_2_ENTC_5-1_en.pdf"
+      },
+      "IAC RNAV(GNSS) RWY 18": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENTC/EN_AD_2_ENTC_5-3_en.pdf",
+        "filename": "EN_AD_2_ENTC_5-3_en.pdf"
+      },
+      "IAC ILS RWY 36": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENTC/EN_AD_2_ENTC_5-5_en.pdf",
+        "filename": "EN_AD_2_ENTC_5-5_en.pdf"
+      },
+      "IAC LOC RWY 36": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENTC/EN_AD_2_ENTC_5-6_en.pdf",
+        "filename": "EN_AD_2_ENTC_5-6_en.pdf"
+      },
+      "IAC RNAV(GNSS) RWY 36": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENTC/EN_AD_2_ENTC_5-7_en.pdf",
+        "filename": "EN_AD_2_ENTC_5-7_en.pdf"
+      },
+      "IAC RNAV(GNSS)-A": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENTC/EN_AD_2_ENTC_5-9_en.pdf",
+        "filename": "EN_AD_2_ENTC_5-9_en.pdf"
+      },		  
+      "VAC ICAO": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENTC/EN_AD_2_ENTC_6-1_en.pdf",
+        "filename": "EN_AD_2_ENTC_6-1_en.pdf"
+      }
+	  },
+	  "ENBR - FLESLAND": {
+      "TEXT": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBR/EN_AD_2_ENBR_en.pdf",
+        "filename": "EN_AD_2_ENBR_en.pdf"
+      },
+      "AD CHART": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBR/EN_AD_2_ENBR_2-1_en.pdf",
+        "filename": "EN_AD_2_ENBR_2-1_en.pdf"
+      },
+      "ADC LIGHTNING AND MARKING AIDS": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBR/EN_AD_2_ENBR_2-2_en.pdf",
+        "filename": "EN_AD_2_ENBR_2-2_en.pdf"
+      },		  
+      "ADC DE-ICING AREA": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBR/EN_AD_2_ENBR_2-5_en.pdf",
+        "filename": "EN_AD_2_ENBR_2-5_en.pdf"
+      },	
+      "AREA CHART": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBR/EN_AD_2_ENBR_7-1_en.pdf",
+        "filename": "EN_AD_2_ENBR_7-1_en.pdf"
+      },	  
+  		"AOC ICAO TYPE A RWY 17": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBR/EN_AD_2_ENBR_3-1_en.pdf",
+        "filename": "EN_AD_2_ENBR_3-1_en.pdf"
+      }, 
+  		"AOC ICAO TYPE A RWY 35": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBR/EN_AD_2_ENBR_3-3_en.pdf",
+        "filename": "EN_AD_2_ENBR_3-3_en.pdf"
+      }, 	  
+  		"PATC RWY 17": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBR/EN_AD_2_ENBR_3-5_en.pdf",
+        "filename": "EN_AD_2_ENBR_3-5_en.pdf"
+      },
+  		"OMNI-DIR.DEPARTURES RWY 17": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBR/EN_AD_2_ENBR_4-3_en.pdf",
+        "filename": "EN_AD_2_ENBR_4-3_en.pdf"
+      },	
+  		"OMNI-DIR.DEPARTURES RWY 35": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBR/EN_AD_2_ENBR_4-7_en.pdf",
+        "filename": "EN_AD_2_ENBR_4-7_en.pdf"
+      },	
+      "SID RWY 17": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBR/EN_AD_2_ENBR_4-1_en.pdf",
+        "filename": "EN_AD_2_ENBR_4-1_en.pdf"
+      },
+      "SID RWY 35": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBR/EN_AD_2_ENBR_4-5_en.pdf",
+        "filename": "EN_AD_2_ENBR_4-5_en.pdf"
+      },
+      "STAR RWY 17": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBR/EN_AD_2_ENBR_4-23_en.pdf",
+        "filename": "EN_AD_2_ENBR_4-23_en.pdf"
+      },
+      "STAR RWY 35": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBR/EN_AD_2_ENBR_4-27_en.pdf",
+        "filename": "EN_AD_2_ENBR_4-27_en.pdf"
+      },
+      "IAC ILS W RWY 17 CAT II": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBR/EN_AD_2_ENBR_5-1_en.pdf",
+        "filename": "EN_AD_2_ENBR_5-1_en.pdf"
+      },
+      "IAC LOC W RWY 17": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBR/EN_AD_2_ENBR_5-2_en.pdf",
+        "filename": "EN_AD_2_ENBR_5-2_en.pdf"
+      },
+      "IAC RNAV(GNSS) RWY 17": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBR/EN_AD_2_ENBR_5-5_en.pdf",
+        "filename": "EN_AD_2_ENBR_5-5_en.pdf"
+      },	  
+      "IAC VOR Z RWY 17": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBR/EN_AD_2_ENBR_5-7_en.pdf",
+        "filename": "EN_AD_2_ENBR_5-7_en.pdf"
+      },
+      "IAC ILS RWY 35": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBR/EN_AD_2_ENBR_5-11_en.pdf",
+        "filename": "EN_AD_2_EBR_5-11_en.pdf"
+      },	
+      "IAC LOC W RWY 35": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBR/EN_AD_2_ENBR_5-12_en.pdf",
+        "filename": "EN_AD_2_ENBR_5-12_en.pdf"
+      },	  
+      "IAC LOC W RWY 01L": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_5-13_en.pdf",
+        "filename": "EN_AD_2_ENGM_5-13_en.pdf"
+      },
+      "IAC RNAV(GNSS) RWY 35": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBR/EN_AD_2_ENBR_5-15_en.pdf",
+        "filename": "EN_AD_2_ENBR_5-15_en.pdf"
+      },
+      "IAC VOR RWY 35": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBR/EN_AD_2_ENBR_5-17_en.pdf",
+        "filename": "EN_AD_2_ENBR_5-17_en.pdf"
+      },
+      "SID (Helicopter) RWY 17/35 CAT H": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBR/EN_AD_2_ENBR_4-9_en.pdf",
+        "filename": "EN_AD_2_ENBR_4-9_en.pdf"
+      },	  
+      "STAR (Helicopter) RWY 17 CAT H": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBR/EN_AD_2_ENBR_4-31_en.pdf",
+        "filename": "EN_AD_2_ENBR_4-31_en.pdf"
+      },
+      "STAR (Helicopter) RWY 35 CAT H": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBR/EN_AD_2_ENBR_4-33_en.pdf",
+        "filename": "EN_AD_2_ENBR_4-33_en.pdf"
+      },	 
+      "STAR (Helicopter Point Boundary) RWY 17": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBR/EN_AD_2_ENBR_4-35_en.pdf",
+        "filename": "EN_AD_2_ENBR_4-35_en.pdf"
+      },	
+      "STAR (Helicopter Point Boundary) RWY 35": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBR/EN_AD_2_ENBR_4-37_en.pdf",
+        "filename": "EN_AD_2_ENBR_4-37_en.pdf"
+      },
+      "STAR (Helicopter Point Boundary) RWY 17/35": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBR/EN_AD_2_ENBR_4-39_en.pdf",
+        "filename": "EN_AD_2_ENBR_4-39_en.pdf"
+      },
+      "STAR (Helicopter Point Boundary ELMEG 2A/2B) RWY 35": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBR/EN_AD_2_ENBR_4-41_en.pdf",
+        "filename": "EN_AD_2_ENBR_4-41_en.pdf"
+      },
+      "IAC (Helicopter) ILS Y RWY 17": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBR/EN_AD_2_ENBR_5-3_en.pdf",
+        "filename": "EN_AD_2_ENBR_5-3_en.pdf"
+      },
+      "IAC (Helicopter) LOC Y RWY 17": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBR/EN_AD_2_ENBR_5-4_en.pdf",
+        "filename": "EN_AD_2_ENBR_5-4_en.pdf"
+      },
+      "IAC (Helicopter) ILS Y RWY 35": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBR/EN_AD_2_ENBR_5-13_en.pdf",
+        "filename": "EN_AD_2_ENBR_5-13_en.pdf"
+      },
+      "IAC (Helicopter) LOC Y RWY 35": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBR/EN_AD_2_ENBR_5-14_en.pdf",
+        "filename": "EN_AD_2_ENBR_5-14_en.pdf"
+      },  
+      "IAC (Helicopter) RNAV(GNSS) 044": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBR/EN_AD_2_ENBR_5-19_en.pdf",
+        "filename": "EN_AD_2_ENBR_5-19_en.pdf"
+      },  	
+      "VFR LIGHT AC": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBR/EN_AD_2_ENBR_6-1_en.pdf",
+        "filename": "EN_AD_2_ENBR_6-1_en.pdf"
+      },
+      "VFR HELICOPTER MOR THAN 3000KG": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBR/EN_AD_2_ENBR_6-2_en.pdf",
+        "filename": "EN_AD_2_ENBR_6-2_en.pdf"
+      },
+      "VAC ICAO RWY 17": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBR/EN_AD_2_ENBR_6-3_en.pdf",
+        "filename": "EN_AD_2_ENBR_6-3_en.pdf"
+      },
+      "VAC ICAO RWY 35": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENBR/EN_AD_2_ENBR_6-4_en.pdf",
+        "filename": "EN_AD_2_ENBR_6-4_en.pdf"
+      },	  
+      "RELATED CHARTS-FRA CON. ROUTES ENBR/ENZV": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/EN_ENR_6_3-5_en.pdf",
+        "filename": "EN_ENR_6_3-5_en.pdf"	       	  
+      }
+	  },	  
+	  "ENGM - GARDERMOEN": {
+      "TEXT": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_en.pdf",
+        "filename": "EN_AD_2_ENGM_en.pdf"
+      },
+      "AD CHART": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_2-1_en.pdf",
+        "filename": "EN_AD_2_ENGM_2-1_en.pdf"
+      },
+      "ADC GROUND MOVEMENT CHART": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_2-2_en.pdf",
+        "filename": "EN_AD_2_ENGM_2-2_en.pdf"
+      },		  
+      "ADC PARKING/DOCKING CHART CIVIL TA": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_2-3_en.pdf",
+        "filename": "EN_AD_2_ENGM_2-3_en.pdf"
+      },
+      "ADC PUSH BACK PROCEDURES": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_2-5_en.pdf",
+        "filename": "EN_AD_2_ENGM_2-5_en.pdf"
+      },
+      "ADC AC PARKING/DOCKING CHART - MIL. TERMINAL": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_2-6_en.pdf",
+        "filename": "EN_AD_2_ENGM_2-6_en.pdf"
+      },
+      "ADC AC PARKING/DOCKING CHART - GA AREA": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_2-7_en.pdf",
+        "filename": "EN_AD_2_ENGM_2-7_en.pdf"
+      },
+      "ADC INTERSECTION TAKE-OFF": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_2-9_en.pdf",
+        "filename": "EN_AD_2_ENGM_2-9_en.pdf"
+      },
+      "ADC DE-ICING AREA": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_2-10_en.pdf",
+        "filename": "EN_AD_2_ENGM_2-10_en.pdf"
+      },	
+      "ADC PARKING/DOCKING CCHART - TWYS LIMA BLUE/ORANGE/CENTRE": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_2-11_en.pdf",
+        "filename": "EN_AD_2_ENGM_2-11_en.pdf"
+      },
+      "ADC GROUND MOVEMENT CHART CODE F": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_2-12_en.pdf",
+        "filename": "EN_AD_2_ENGM_2-12_en.pdf"
+      },	  
+      "AREA CHART": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_7-1_en.pdf",
+        "filename": "EN_AD_2_ENGM_7-1_en.pdf"
+      },	  
+      "PATC RWY 01R": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_3-1_en.pdf",
+        "filename": "EN_AD_2_ENGM_3-1_en.pdf"
+      },
+      "PATC RWY 19L": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_3-2_en.pdf",
+        "filename": "EN_AD_2_ENGM_3-2_en.pdf"
+      },	 
+      "PATC RWY 01L": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_3-3_en.pdf",
+        "filename": "EN_AD_2_ENGM_3-3_en.pdf"
+      },	  
+      "PATC RWY 19R": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_3-4_en.pdf",
+        "filename": "EN_AD_2_ENGM_3-4_en.pdf"
+      },	  
+  		"AOC ICAO TYPE A RWY 01R": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_3-5_en.pdf",
+        "filename": "EN_AD_2_ENGM_3-5_en.pdf"
+      }, 
+  		"AOC ICAO TYPE A RWY 19L": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_3-7_en.pdf",
+        "filename": "EN_AD_2_ENGM_3-7_en.pdf"
+      }, 	  
+  		"AOC ICAO TYPE A RWY 01L": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_3-9_en.pdf",
+        "filename": "EN_AD_2_ENGM_3-9_en.pdf"
+      },
+  		"AOC ICAO TYPE A RWY 19R": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_3-11_en.pdf",
+        "filename": "EN_AD_2_ENGM_3-11_en.pdf"
+      },	 
+  		"AOC ICAO TYPE B RWY 01R/19L": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_3-13_en.pdf",
+        "filename": "EN_AD_2_ENGM_3-13_en.pdf"
+      },	
+  		"AOC ICAO TYPE B RWY 01L/19R": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_3-15_en.pdf",
+        "filename": "EN_AD_2_ENGM_3-15_en.pdf"
+      },		  
+  		"OMNI-DIR.DEPARTURES RWY 01L": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_4-5_en.pdf",
+        "filename": "EN_AD_2_ENGM_4-5_en.pdf"
+      },	
+  		"OMNI-DIR.DEPARTURES RWY 01R": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_4-10_en.pdf",
+        "filename": "EN_AD_2_ENGM_4-10_en.pdf"
+      },	
+  		"OMNI-DIR.DEPARTURES RWY 19L": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_4-13_en.pdf",
+        "filename": "EN_AD_2_ENGM_4-13_en.pdf"
+      },
+  		"OMNI-DIR.DEPARTURES RWY 19R": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_4-18_en.pdf",
+        "filename": "EN_AD_2_ENGM_4-18_en.pdf"
+      },		  
+      "SID RWY 01L": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_4-5_en.pdf",
+        "filename": "EN_AD_2_ENGM_4-5_en.pdf"
+      },
+      "SID RWY 01R": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_4-10_en.pdf",
+        "filename": "EN_AD_2_ENGM_4-10_en.pdf"
+      },
+      "SID RWY 19L": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_4-11_en.pdf",
+        "filename": "EN_AD_2_ENGM_4-11_en.pdf"
+      },
+      "SID RWY 19R": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_4-15_en.pdf",
+        "filename": "EN_AD_2_ENGM_4-15_en.pdf"
+      },	
+      "SID (PROP ACFT) RWY 01L": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_4-19_en.pdf",
+        "filename": "EN_AD_2_ENGM_4-19_en.pdf"
+      },
+      "SID (PROP ACFT) RWY 19L": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_4-21_en.pdf",
+        "filename": "EN_AD_2_ENGM_4-21_en.pdf"
+      },
+      "SID (PROP ACFT) RWY 19R": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_4-23_en.pdf",
+        "filename": "EN_AD_2_ENGM_4-23_en.pdf"
+      },	  
+      "STAR RNAV RWY 01 L/R W and E": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_4-25_en.pdf",
+        "filename": "EN_AD_2_ENGM_4-25_en.pdf"
+      },
+      "STAR RNAV RWY 19 L/R W and E": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_4-29_en.pdf",
+        "filename": "EN_AD_2_ENGM_4-29_en.pdf"
+      },		  
+      "IAC ILS or LOC RWY 01R CAT II & III": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_4-25_en.pdf",
+        "filename": "EN_AD_2_ENGM_4-25_en.pdf"
+      },
+      "IAC RNAV(RNP)W RWY 01R": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_5-3_en.pdf",
+        "filename": "EN_AD_2_ENGM_5-3_en.pdf"
+      },
+      "IAC RNAV(RNP)X RWY 01R": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_5-5_en.pdf",
+        "filename": "EN_AD_2_ENGM_5-5_en.pdf"
+      },	  
+      "IAC RNAV(GNSS)Z RWY 01R": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_5-7_en.pdf",
+        "filename": "EN_AD_2_ENGM_5-7_en.pdf"
+      },
+      "IAC ILS or LOC RWY 01L CAT II  & III": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_5-9_en.pdf",
+        "filename": "EN_AD_2_ENGM_5-9_en.pdf"
+      },	
+      "IAC RNAV(RNP)X RWY 01L": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_5-11_en.pdf",
+        "filename": "EN_AD_2_ENGM_5-11_en.pdf"
+      },	  
+      "IAC RNAV(GNSS)Z RWY 01L": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_5-13_en.pdf",
+        "filename": "EN_AD_2_ENGM_5-13_en.pdf"
+      },
+      "IAC VOR RWY 01L": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_5-15_en.pdf",
+        "filename": "EN_AD_2_ENGM_5-15_en.pdf"
+      },
+      "IAC ILS or LOC RWY 19R CAT II  & III": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_5-17_en.pdf",
+        "filename": "EN_AD_2_ENGM_5-17_en.pdf"
+      },	
+      "IAC RNAV(RNP)X RWY 19R": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_5-19_en.pdf",
+        "filename": "EN_AD_2_ENGM_5-19_en.pdf"
+      },	  
+      "IAC RNAV(GNSS)Z RWY 19R": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_5-21_en.pdf",
+        "filename": "EN_AD_2_ENGM_5-21_en.pdf"
+      },
+      "IAC VOR RWY 19R": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_5-23_en.pdf",
+        "filename": "EN_AD_2_ENGM_5-23_en.pdf"
+      },
+      "IAC ILS or LOC RWY 19L CAT II  & III": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_5-25_en.pdf",
+        "filename": "EN_AD_2_ENGM_5-25_en.pdf"
+      },	
+      "IAC RNAV(RNP)X RWY 19L": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_5-27_en.pdf",
+        "filename": "EN_AD_2_ENGM_5-27_en.pdf"
+      },	  
+      "IAC RNAV(GNSS)Z RWY 19L": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_5-29_en.pdf",
+        "filename": "EN_AD_2_ENGM_5-29_en.pdf"
+      },
+      "VAC ICAO": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/ad/ENGM/EN_AD_2_ENGM_6-1_en.pdf",
+        "filename": "EN_AD_2_ENGM_6-1_en.pdf"
+      },	  
+      "RELATED CHARTS-FRA CON. ROUTES ENGM": {
+        "url": "https://ais.avinor.no/AIP/Latest/aip/EN_ENR_6_3-1_en.pdf",
+        "filename": "EN_ENR_6_3-1_en.pdf"	  
+      }	  
+    }
+  }
+}
